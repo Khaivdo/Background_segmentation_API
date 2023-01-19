@@ -1,4 +1,5 @@
-# Task 4.2
+# Target
+A background subtraction method that takes a video as input, and returns a background subtracted video as output.
 
 ## Execution
 To run the app, you can simply execute 
