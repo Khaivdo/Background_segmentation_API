@@ -17,4 +17,4 @@ then copy and paste the local host address on a web browser
 
 ## Result
 
-<img src="https://github.com/Khaivdo/Task-4.2/blob/master/Output.png" height="350" width="550">
+<img src="https://github.com/Khaivdo/Background_segmentation_API/blob/main/Output.png" height="350" width="550">
