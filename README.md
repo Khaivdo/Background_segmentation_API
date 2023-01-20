@@ -14,7 +14,7 @@ then copy and paste the local host address on a web browser
 ## Achievements
 - A brower with buttons to select a video file to process
 - Message to show the uploaded video is being processed
-- Automatically download the output file to local Downloads folder
+- Automatically download the output file (masked video) to local Downloads folder
 
 ## Result
 
